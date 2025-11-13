@@ -1,5 +1,5 @@
 name: google_bangla_translate
-description: "A new Flutter package project."
+description: "A Flutter package for translating text between English and Bangla using Google Translate API, with GetX integration and a TranslatedText widget."
 version: 0.0.1
 homepage:
 
